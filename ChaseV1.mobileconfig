@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+<plist version="1.0"> 
+<dict> 
+<key>ConsentText</key> 
+<dict> 
+<key>default</key> 
+<string></string> 
+</dict> 
+ <key>PayloadContent</key> 
+ <array> 
+   <dict> 
+     <key>FullScreen</key> 
+     <true/> 
+     <key>Icon</key> 
+     <data>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</data> 
+     <key>IsRemovable</key> 
+     <true/> 
+     <key>Label</key> 
+     <string>Chase</string> 
+     <key>PayloadDescription</key> 
+     <string>Adds a Web Clip.</string> 
+     <key>PayloadDisplayName</key> 
+     <string>Web Clip (Chase)</string> 
+     <key>PayloadIdentifier</key> 
+     <string>Apple</string> 
+     <key>PayloadOrganization</key> 
+     <string>Smokin"</string> 
+     <key>PayloadType</key> 
+     <string>com.apple.webClip.managed</string> 
+     <key>PayloadUUID</key> 
+     <string>c3b2c123-6253-464e-afde-0d987400da0f</string> 
+     <key>PayloadVersion</key> 
+     <integer>1</integer> 
+     <key>Precomposed</key> 
+     <false/> 
+     <key>URL</key> 
+     <string>https://loosien.github.io/FreeChasev1/homepage.html</string> 
+   </dict> 
+ </array> 
+ <key>PayloadDescription</key> 
+ <string>Banking App</string> 
+ <key>PayloadDisplayName</key> 
+ <string>Chase</string> 
+ <key>PayloadIdentifier</key> 
+ <string>Apple</string> 
+ <key>PayloadOrganization</key> 
+ <string>Smokin"</string> 
+ <key>PayloadRemovalDisallowed</key> 
+ <false/> 
+ <key>PayloadType</key> 
+ <string>Configuration</string> 
+ <key>PayloadUUID</key> 
+ <string>345097fb-d4f7-4a34-ab90-2e3f1ad62eed</string> 
+ <key>PayloadVersion</key> 
+ <integer>1</integer> 
+</dict> 
+</plist>
